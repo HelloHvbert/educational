@@ -134,9 +134,9 @@ educational-platform/
 ✅ **Teaching Presentation**: 3 chapters with adaptive content based on performance  
 ✅ **Student Assessment**: Tests with multiple question types (5-10 questions per test)  
 ✅ **Feedback System**: Correct/incorrect answers, grades, and personalized messages  
-✅ **Progress Statistics**: Comprehensive tracking of reads, tests, and grades  
+✅ **Progress Statistics**: Comprehensive tracking of reads, tests, and grades
 ✅ **VAK Learning Style**: Content adaptation based on Visual, Auditory, or Kinesthetic preferences  
-✅ **Adaptive Progression**: Chapters recommended based on student performance  
+✅ **Adaptive Progression**: Chapters recommended based on student performance, chapter is completed when best grade is 100% or best grade is above 70% and average grade is above 50%
 
 ## Development
 
