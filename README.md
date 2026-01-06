@@ -108,7 +108,7 @@ educational-platform/
 4. **Navigate the Platform**:
    - **Dashboard**: View your progress, recommended chapters, and recent activity
    - **Chapters**: Browse and access educational chapters
-   - **Statistics**: View detailed progress statistics
+   - **Statistics**: View detailed progress statistics and can change your learning style
 
 5. **Learn**:
    - Click on a chapter to start learning
@@ -119,6 +119,7 @@ educational-platform/
    - View your statistics to see how many times you've read each chapter
    - Check your test scores and average grades
    - Review recommended chapters based on your performance
+   - Reset your progress with button
 
 ## Notes
 
