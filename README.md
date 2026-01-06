@@ -1,4 +1,4 @@
-# Educational Learning Platform (React Version)
+# Educational Learning Platform
 
 An interactive and adaptive educational software system built with React that teaches programming concepts with personalized learning experiences based on the VAK (Visual, Auditory, Kinesthetic) learning style model.
 
